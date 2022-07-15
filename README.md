@@ -5,4 +5,4 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 
 Offered: University Of Michigan.
 
-Level: Beginner.
+Level: Beginner
