@@ -1,0 +1,99 @@
+header{
+    background-image: url(../img/flywheel.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 280px;
+   
+}
+
+header h1{
+    text-align: center;
+    color:#fff;
+    text-transform: uppercase;
+    
+}
+
+header nav{
+    text-align: center;
+    line-height: 150px;
+    
+}
+
+header .not-active{
+    width: 100%;
+    background-color:#fff;
+    color: rgb(14, 13, 13);
+    padding:15px 50px;
+    margin: 95px;
+    text-decoration: none;
+    opacity: 50%;
+    box-sizing: border-box;
+    
+}
+
+header a{
+    width: 100%;
+    background-color:#fff;
+    color: rgb(14, 13, 13);
+    padding:15px 50px;
+    margin: 95px;
+    text-decoration: none;
+    box-sizing: border-box;
+    
+}
+
+.left{
+    background-color: rgb(101, 108, 64);
+    width: 500px;
+    height: 600px;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+img{
+    margin-top: 20px;
+    max-width: 50%;
+    border: solid 3px rgb(5, 5, 5);
+    position: relative;
+    left: 130px;
+}
+
+.right{
+    display: inline-block;
+    width: 70%;
+    float: right;
+}
+
+section h2{
+    color: rgb(16, 17, 17);
+}
+
+
+table{
+    text-align: center;
+    position: relative;
+    left: 250px;;
+    width: 800px;
+    height: 500px;
+}
+
+
+
+table thead th{
+    background-color: rgb(101, 108, 64);
+    color: #fff;
+    margin: 5px 5px 5px 5px;
+    padding: 10px 10px 10px 10px;
+    border: solid 3px rgb(92, 160, 92);
+   
+}
+
+table tbody{
+    background-color: rgb(194, 228, 201);
+
+}
+
+table tbody tr:hover{
+    opacity: 0.6;
+}
+
