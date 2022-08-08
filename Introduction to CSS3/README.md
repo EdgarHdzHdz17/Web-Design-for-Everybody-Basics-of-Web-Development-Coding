@@ -10,5 +10,5 @@ This is the second course in the Web Design For Everybody specialization.   Subs
 Course 2 of 4 in Web-Design-for-Everybody-Basics-of-Web-Development-Coding.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/47467891/179124439-ba8b8737-b407-4879-b5ba-3d5fa6956764.png">
+<img src="https://user-images.githubusercontent.com/47467891/183533817-666f662a-7731-4c15-b134-5d5e24dfec57.png">
 </p>
